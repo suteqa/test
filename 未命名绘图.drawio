@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T13:19:59.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="f3kmtfIy1W5b1QwdtLb1" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T13:20:52.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0bUMZWMZyhHFYbDxUrJB" version="21.0.8" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1281" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -243,9 +243,6 @@
         </mxCell>
         <mxCell id="0fIpZP7jr5zXnAWBWlGi-71" value="vue前端框架" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2f2d2d;fontStyle=1;labelBorderColor=default;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1032" y="679" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0fIpZP7jr5zXnAWBWlGi-77" value="vue框架" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2f2d2d;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1010.56" y="678" width="142.99" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
